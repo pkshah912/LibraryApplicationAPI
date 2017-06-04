@@ -1,0 +1,9 @@
+C:\pooja data\RIT sem 4\Programming Skills\Projects\LibraryApplicationAPI\LibraryApplicationAPI\bin\Debug\netcoreapp1.1\LibraryApplicationAPI.deps.json
+C:\pooja data\RIT sem 4\Programming Skills\Projects\LibraryApplicationAPI\LibraryApplicationAPI\bin\Debug\netcoreapp1.1\LibraryApplicationAPI.runtimeconfig.json
+C:\pooja data\RIT sem 4\Programming Skills\Projects\LibraryApplicationAPI\LibraryApplicationAPI\bin\Debug\netcoreapp1.1\LibraryApplicationAPI.runtimeconfig.dev.json
+C:\pooja data\RIT sem 4\Programming Skills\Projects\LibraryApplicationAPI\LibraryApplicationAPI\obj\Debug\netcoreapp1.1\LibraryApplicationAPI.csprojResolveAssemblyReference.cache
+C:\pooja data\RIT sem 4\Programming Skills\Projects\LibraryApplicationAPI\LibraryApplicationAPI\obj\Debug\netcoreapp1.1\LibraryApplicationAPI.AssemblyInfo.cs
+C:\pooja data\RIT sem 4\Programming Skills\Projects\LibraryApplicationAPI\LibraryApplicationAPI\bin\Debug\netcoreapp1.1\LibraryApplicationAPI.dll
+C:\pooja data\RIT sem 4\Programming Skills\Projects\LibraryApplicationAPI\LibraryApplicationAPI\bin\Debug\netcoreapp1.1\LibraryApplicationAPI.pdb
+C:\pooja data\RIT sem 4\Programming Skills\Projects\LibraryApplicationAPI\LibraryApplicationAPI\obj\Debug\netcoreapp1.1\LibraryApplicationAPI.dll
+C:\pooja data\RIT sem 4\Programming Skills\Projects\LibraryApplicationAPI\LibraryApplicationAPI\obj\Debug\netcoreapp1.1\LibraryApplicationAPI.pdb
